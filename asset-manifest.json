@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tennis-app/static/css/main.9cbc5c22.css",
+    "main.js": "/tennis-app/static/js/main.9534b373.js",
+    "static/media/footer.png": "/tennis-app/static/media/footer.d599c1d424f2180d92c9.png",
+    "static/media/Picture.png": "/tennis-app/static/media/Picture.76c7f3370c95652b15dd.png",
+    "static/media/Hero-tenis.png": "/tennis-app/static/media/Hero-tenis.8f885757d55884d5b3e1.png",
+    "static/media/catalog2.png": "/tennis-app/static/media/catalog2.43b5c7aeccac8d83b79f.png",
+    "static/media/catalog.png": "/tennis-app/static/media/catalog.52e929235f02408e1fdf.png",
+    "static/media/catalog3.png": "/tennis-app/static/media/catalog3.6a46694a10f7ac79ee04.png",
+    "static/media/Apercu.ttf": "/tennis-app/static/media/Apercu.941f622ff32817a0ecc9.ttf",
+    "static/media/Pelota-tenis2.png": "/tennis-app/static/media/Pelota-tenis2.187e001b83b6c7773fcf.png",
+    "static/media/Pelota-tenis.png": "/tennis-app/static/media/Pelota-tenis.add4bf523228af8d3b80.png",
+    "static/media/Raqueta.png": "/tennis-app/static/media/Raqueta.bf80dc0fc5c9e9efef8a.png",
+    "static/media/Banda.png": "/tennis-app/static/media/Banda.dfab04357e55dc308b44.png",
+    "index.html": "/tennis-app/index.html",
+    "main.9cbc5c22.css.map": "/tennis-app/static/css/main.9cbc5c22.css.map",
+    "main.9534b373.js.map": "/tennis-app/static/js/main.9534b373.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cbc5c22.css",
+    "static/js/main.9534b373.js"
+  ]
+}
